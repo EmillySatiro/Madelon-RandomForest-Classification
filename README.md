@@ -41,6 +41,7 @@ Instalação via `pip`:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn jupyter
+```
 
 ## 🖥️ Como executar
 Clone o repositório: 
